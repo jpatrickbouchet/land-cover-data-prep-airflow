@@ -1,0 +1,5 @@
+geopandas==0.5.0
+eo-learn==0.5.2
+sentinelhub==2.5.3
+google-cloud-storage==1.19.0
+gcsfs==0.3.0

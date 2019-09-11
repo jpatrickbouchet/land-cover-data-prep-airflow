@@ -1,0 +1,15 @@
+{
+
+    "variables_config": {
+        "email": ["your_email_here"],
+        "landcover_url": "url_here",
+        "aoi_geojson_url": "url_here",
+        "sentinelhub_instance_id": "instance_id_here",
+        "crs_output": "epsg:32631",
+		"project_id": "your_google_cloud_project_id",
+        "bucket_output": "your_google_cloud_bucket",
+        "region": "europe-west4",
+        "zone": "europe-west4-a"
+    }
+
+}
